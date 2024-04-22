@@ -510,6 +510,9 @@ The second button shows an example of using a data dictionary to construct the e
 ## Validation with Assurance
 With the server side configuration and app setup complete, Assurance makes it possible to take a look at the event flow in real time and inspect the details of individual events; using Assurance, the Experience Events sent out by the Edge extension can be validated to have the required format.
 
+> **Note**
+> To run assurance, you must have the app installed on a physical device.
+
 ### 1. Set up the Assurance session
 1. In the browser, navigate to [Assurance](https://experience.adobe.com/assurance) and login using your Adobe ID credentials.
 2. Select **Create Session** in the top right.
